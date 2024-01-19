@@ -1,0 +1,32 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: brown;
+}
+
+.container{
+    text-align: center;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1);
+
+}
+
+form{
+    margin-bottom: 20px;
+}
+
+.oculto{
+    display: none;
+
+}
+
+button:hover{
+    background-color: darkgoldenrod;
+}
